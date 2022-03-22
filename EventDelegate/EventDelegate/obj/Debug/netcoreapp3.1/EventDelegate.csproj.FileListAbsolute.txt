@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.exe
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.deps.json
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.json
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\bin\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.dll
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.pdb
+C:\Users\Пользователь\source\repos\EventDelegate\EventDelegate\obj\Debug\netcoreapp3.1\EventDelegate.genruntimeconfig.cache
